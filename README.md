@@ -1,1 +1,3 @@
-# world_series_2017_game7_markov_chain_baseball_simulation
+# mlb_world_series_markov_chain_model
+2017 World Series
+Dodgers vs Astros
